@@ -3,5 +3,5 @@ using namespace std;
 
 int main(){
     // cout : console output
-    cout << "Hate C++ eiei" << endl;
+    cout << "Love C++" << endl;
 }
